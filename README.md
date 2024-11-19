@@ -1,7 +1,6 @@
 # ⭐ Deakin-4-IndiAI ⭐
 
-<hr/>
-<div style="display: inline-flex;margin-right: 1em;gap:1em;padding-top: 0;margin-top: 0">
+<div style="display: flex;margin-right: 1em;gap:1em;padding-top: 0;margin-top: 0">
 
 [![Updated Badge](https://badges.pufler.dev/updated/shreyasnm9/NLP-IndiaAI)](https://github.com/shreyasnm9/NLP-IndiaAI)
 
