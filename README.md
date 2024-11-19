@@ -1,5 +1,6 @@
 # ⭐ Deakin-4-IndiAI ⭐
 
+<hr/>
 <div style="display: inline-flex;margin-right: 1em;gap:1em;padding-top: 0;margin-top: 0">
 
 [![Updated Badge](https://badges.pufler.dev/updated/shreyasnm9/NLP-IndiaAI)](https://github.com/shreyasnm9/NLP-IndiaAI)
@@ -7,11 +8,19 @@
 <p> <img src="https://komarev.com/ghpvc/?username=shreyasnm9&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasnm9" /> </p>
 </div>
 
+## Content
+
+- [Meet Our Team](#Meet-Our-Team)
+- [About Us](#About-Us)
+- [Problem Statement](#Problem-Statement)
+- [Technology Stack](#Technology-Stack)
+    - [List Of Libraries](#List-Of-Libraries)
+
 ## Meet our Team
 
 | <img src="/assets/shreyas.jpg" alt="shreyas" width="220" height="220"/> | <img src="/assets/shounak.jpeg" alt="shounak" width="220" height="220"/> | <img src="/assets/chandan.jpg" alt="shounak" width="220" height="220"/> |
-|-------------------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| Shreyas NM                                                              | Shounak Bhalerao                                                         | Chandan Hegde                                                           |
+|:-----------------------------------------------------------------------:|:------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|
+|                               Shreyas NM                                |                             Shounak Bhalerao                             |                              Chandan Hegde                              |
 
 ## About Us
 
@@ -25,20 +34,8 @@ solution.
 
 ## Technology Stack
 
-<p align="left" style="display: inline-flex;"> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="display: flex;flex-direction: column;margin-right: 1em">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: flex;flex-direction: column;margin-right: 1em"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a> 
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="display: flex;flex-direction: column;margin-right: 1em;"> 
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" style="align-self: center;"/>
-    </a> 
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="display: flex;flex-direction: column;margin-right: 1em;"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-    </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="display: flex;flex-direction: column;margin-right: 1em;"> 
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-    </a> 
-</p>
+### List of Libraries
+
+| [<img src="/assets/python-original.svg" height="100" width="100"/>](#python) |   [<img src="/assets/pandas-original.svg" height="100" width="100"/>](#pandas)   |    [<img src="/assets/pyTorch.svg" height="60" width="100"/>](#pytorch)     |       [<img src="/assets/scikitlearn.svg" height="100" width="100"/>](#scikit)        |       [<img src="/assets/seaborn.svg" height="100" width="100"/>](#seaborn)        |
+|:----------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
+| <a href="https://www.python.org" target="_blank" rel="noreferrer">Python</a> | <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">Pandas</a> | <a href="https://pytorch.org/" target="_blank" rel="noreferrer">PyTorch</a> | <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">SciKit-Learn</a> | <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">Seaborn</a> |
